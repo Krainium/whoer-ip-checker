@@ -1,4 +1,4 @@
-# whoer
+# whoer ip checker
 
 A Node.js script that scrapes [whoer.com](https://whoer.com) for IP intelligence. It pulls every data point the site exposes about an IP address, either your own public IP or any address you feed it, then prints a clean report to your terminal. You can also dump the report to a JSON or text file.
 
