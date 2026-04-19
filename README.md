@@ -186,4 +186,4 @@ When you save with `-o file.json` you get structured data ready to pipe into jq,
 
 ## Contributing
 
-Issues and pull requests welcome at https://github.com/krainium/whoer.
+Issues and pull requests welcome at https://github.com/Krainium/whoer-ip-checker
